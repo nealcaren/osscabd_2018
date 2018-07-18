@@ -1,0 +1,11 @@
+name: osscabd_2019
+channels:
+  - conda-forge
+dependencies:
+  - anaconda
+  - pip:
+    - docx2txt
+    - pypdf2
+    - afinn
+    - vaderSentiment 
+
