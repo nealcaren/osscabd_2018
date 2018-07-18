@@ -5,6 +5,7 @@ channels:
 dependencies:
   - pandas
   - rise
+  - matplotlib
   - pip:
     - docx2txt
     - pypdf2
