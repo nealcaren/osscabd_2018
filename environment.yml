@@ -2,7 +2,7 @@ name: osscabd_2019
 channels:
   - conda-forge
 dependencies:
-  - anaconda
+  - pandas
   - pip:
     - docx2txt
     - pypdf2
