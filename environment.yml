@@ -1,8 +1,10 @@
 name: osscabd_2019
 channels:
   - conda-forge
+  - damianavila82
 dependencies:
   - pandas
+  - rise
   - pip:
     - docx2txt
     - pypdf2
