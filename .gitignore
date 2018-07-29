@@ -5,10 +5,7 @@
 *.pyc
 .ipynb_checkpoints
 
-<<<<<<< HEAD
-#in progress
+
+#unfinished
 working/
-=======
-#Working Direcotry
-working/
->>>>>>> a279b39fe1569661eabf9d3ccc1b61e3995976d8
+draft*
