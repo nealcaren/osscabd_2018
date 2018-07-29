@@ -4,3 +4,6 @@
 #Python Crap
 *.pyc
 .ipynb_checkpoints
+
+#in progress
+working/
